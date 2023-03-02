@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { map } from "./Map";
-import Buttons from "./Buttons";
-import Cafe from "./Cafe";
+
 
 function Maps () {
 
